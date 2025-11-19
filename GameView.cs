@@ -44,7 +44,7 @@ public class GameView : ViewBase
             // 会話パラメータのTalksを取得してdataに格納、awaitにて背景を設定
             // var data = talkWindow.Talks;
 
-            string _sheetId = "1Xk0gHLsZtm0dRrwRiUKkBWeAnuHFr4d1cqs0q9_Yguw";
+            string _sheetId = "シートID";
             string _sheetName2_0 = "TalkData002_0";
             string _sheetName2_1 = "TalkData002_1";
             string _sheetName2_2 = "TalkData002_2";
@@ -158,4 +158,5 @@ public class GameView : ViewBase
     }
 
     
+
 }
